@@ -28,6 +28,7 @@ This configuration file turns a standard Counter-Strike 2 offline server into a 
 **Practice Environment Controls**
 * **`B`**: Toggle Noclip (Flying)
 * **`N`**: Rethrow your last practice grenade
+* **`O`**: Bot Placement Feature (Read Caution below)
 * **`I`**: Kick all bots and clear the map
 * **`P`**: Instantly restart the practice round
 * **`Y`**: Help
